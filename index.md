@@ -1,3 +1,5 @@
+# Welcome to Jing Gong's homepage 
+## (The details are yet to be written)
 ---
 layout: default
 ---
