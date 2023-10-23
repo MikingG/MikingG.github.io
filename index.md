@@ -33,6 +33,10 @@ For more insightful blog posts, I invite you to visit [my homepage on CSDN](http
 
 # Project
 
+## Gradient-Free Federated Learning Methods Based on Evolutionary Computation
+
+Description: During my undergraduate studies, I had the opportunity to work with Associate Professor Xiaoyu He as part of the National Undergraduate Training Program for Innovation and Entrepreneurship. Our research primarily focused on developing gradient-free federated learning methods using evolutionary computation. This innovative approach aimed to enhance the efficiency and effectiveness of federated learning, making it a viable option for various practical applications.
+
 ## SSE_MARKET
 
 Description: SSE_MARKET is a communication platform specifically designed for teachers and students at the School of Software Engineering (SSE) at Sun Yat-sen University (SYSU). This platform aims to facilitate seamless interaction and the exchange of information within the academic community.
@@ -40,15 +44,15 @@ Description: SSE_MARKET is a communication platform specifically designed for te
 - For PC access, please visit [ssemarket.cn/pc](http://ssemarket.cn/pc).
 - For mobile device access, please visit [ssemarket.cn/mb](http://ssemarket.cn/mb).
 
-## Gradient-Free Federated Learning Methods Based on Evolutionary Computation
-
-Description: During my undergraduate studies, I had the opportunity to work with Associate Professor Xiaoyu He as part of the National Undergraduate Training Program for Innovation and Entrepreneurship. Our research primarily focused on developing gradient-free federated learning methods using evolutionary computation. This innovative approach aimed to enhance the efficiency and effectiveness of federated learning, making it a viable option for various practical applications.
+As the team leader of this project, I have overseen the development and implementation of the platform, ensuring that it meets the needs of SSE.
 
 ## CLUB_HUB
 
 Description: CLUB_HUB is a platform dedicated to managing student clubs and facilitating club recruitment at Sun Yat-sen University (SYSU). The platform serves as a comprehensive resource for students interested in joining clubs and for club leaders seeking new members.
 
 - This project is not finished yet.
+
+As the team leader of this project, I am responsible for coordinating the development of the platform and ensuring that it effectively meets the needs of SYSU.
 
 # Recent New
 
