@@ -12,8 +12,9 @@ My research interests are broad, encompassing large language models, software en
 
 # Awards
 
-1. Sun Yat-sen University Outstanding Student Scholarship (2022-2023 academic year), **First Class** (Top 5%)
-2. Sun Yat-sen University Outstanding Student Scholarship (2021-2022 academic year), **Third Class** (Top 30%)
+1. Sun Yat-sen University Outstanding Student Scholarship (2022-2023 academic year), First Class (Top 5%)
+2. Sun Yat-sen University Outstanding Student Scholarship (2021-2022 academic year), Third Class (Top 30%)
+3. Sun Yat-sen University Programming Design Novice Competition, Second Prize.
 
 
 # Publications
@@ -21,8 +22,6 @@ My research interests are broad, encompassing large language models, software en
 While I have not published any papers to date, I am currently working under the tutelage of the brilliant, kind, and beautiful Assistant Professor Yanlin Wang. With her guidance, I am confident in my potential and excited for the promising future that lies ahead.
 
 ## Highlighted Works from My Blog
-
-> [My homepage for CSDN](https://blog.csdn.net/weixin_64123373?type=blog)
 
 1. [Managing Test Files with create_files and delete_files Bash Scripts](https://blog.csdn.net/weixin_64123373/article/details/133934518?spm=1001.2014.3001.5502)
 2. [How to successfully Compile lab1_example_solution1?](https://blog.csdn.net/weixin_64123373/article/details/133379846?spm=1001.2014.3001.5502)
