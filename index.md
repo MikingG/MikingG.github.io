@@ -9,6 +9,13 @@ In addition to my academic endeavors, I have a passion for sharing knowledge and
 
 My research interests are broad, encompassing large language models, software engineering, and deep learning, with a particular focus on intelligent software engineering.
 
+
+# Awards
+
+1. Sun Yat-sen University Outstanding Student Scholarship (2022-2023 academic year), **First Class** (Top 5%)
+2. Sun Yat-sen University Outstanding Student Scholarship (2021-2022 academic year), **Third Class** (Top 30%)
+
+
 # Publications
 
 While I have not published any papers to date, I am currently working under the tutelage of the brilliant, kind, and beautiful Assistant Professor Yanlin Wang. With her guidance, I am confident in my potential and excited for the promising future that lies ahead.
