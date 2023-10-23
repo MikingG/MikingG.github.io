@@ -1,125 +1,53 @@
-# Welcome to Jing Gong's homepage 
-## (The details are yet to be written)
 ---
 layout: default
 ---
+# About me
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I enrolled in the Software Engineering School at Sun Yat-sen University in September 2021 as an undergraduate student. Currently, I am conducting research under the guidance of Assistant Professor Yanling Wang. Prior to this, I worked with Associate Professor Xiaoyu He, participating in the National Undergraduate Training Program for Innovation and Entrepreneurship. During that time, our research focused on gradient-free federated learning methods based on evolutionary computation.
 
-[Link to another page](./another-page.html).
+In addition to my academic endeavors, I have a passion for sharing knowledge and have authored almost 100 original blogs, which are published on CSDN, a prominent Chinese software development community.
 
-There should be whitespace between paragraphs.
+My research interests are broad, encompassing large language models, software engineering, and deep learning, with a particular focus on intelligent software engineering.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Publications
 
-# Header 1
+While I have not published any papers to date, I am currently working under the tutelage of the brilliant, kind, and beautiful Assistant Professor Yanlin Wang. With her guidance, I am confident in my potential and excited for the promising future that lies ahead.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Highlighted Works from My Blog
 
-## Header 2
+> [My homepage for CSDN](https://blog.csdn.net/weixin_64123373?type=blog)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+1. [Managing Test Files with create_files and delete_files Bash Scripts](https://blog.csdn.net/weixin_64123373/article/details/133934518?spm=1001.2014.3001.5502)
+2. [How to successfully Compile lab1_example_solution1?](https://blog.csdn.net/weixin_64123373/article/details/133379846?spm=1001.2014.3001.5502)
+3. [How to connect VSCode to Ubuntu](https://blog.csdn.net/weixin_64123373/article/details/133928744?spm=1001.2014.3001.5502)
+4. [Bitcoin Consensus Mechanism](https://blog.csdn.net/weixin_64123373/article/details/133278783?spm=1001.2014.3001.5502)
+5. [mandatory and optional problems](https://blog.csdn.net/weixin_64123373/article/details/133323762?spm=1001.2014.3001.5502)
 
-### Header 3
+For more insightful blog posts, I invite you to visit [my homepage on CSDN](https://blog.csdn.net/weixin_64123373?type=blog).
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# Project
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## SSE_MARKET
 
-#### Header 4
+Description: SSE_MARKET is a communication platform specifically designed for teachers and students at the School of Software Engineering (SSE) at Sun Yat-sen University (SYSU). This platform aims to facilitate seamless interaction and the exchange of information within the academic community.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- For PC access, please visit [ssemarket.cn/pc](http://ssemarket.cn/pc).
+- For mobile device access, please visit [ssemarket.cn/mb](http://ssemarket.cn/mb).
 
-##### Header 5
+## Gradient-Free Federated Learning Methods Based on Evolutionary Computation
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Description: During my undergraduate studies, I had the opportunity to work with Associate Professor Xiaoyu He as part of the National Undergraduate Training Program for Innovation and Entrepreneurship. Our research primarily focused on developing gradient-free federated learning methods using evolutionary computation. This innovative approach aimed to enhance the efficiency and effectiveness of federated learning, making it a viable option for various practical applications.
 
-###### Header 6
+## CLUB_HUB
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Description: CLUB_HUB is a platform dedicated to managing student clubs and facilitating club recruitment at Sun Yat-sen University (SYSU). The platform serves as a comprehensive resource for students interested in joining clubs and for club leaders seeking new members.
 
-### There's a horizontal rule below this.
+- This project is not finished yet.
 
-* * *
+# Recent New
 
-### Here is an unordered list:
+- **2023/10.** I have joined the research group led by Assistant Professor Yanlin Wang.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+# Contact Me
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Email: gongj39@mail2.sysu.edu.cn
