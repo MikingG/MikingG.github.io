@@ -29,7 +29,7 @@ While I have not published any papers to date, I am currently working under the 
 4. [Bitcoin Consensus Mechanism](https://blog.csdn.net/weixin_64123373/article/details/133278783?spm=1001.2014.3001.5502)
 5. [mandatory and optional problems](https://blog.csdn.net/weixin_64123373/article/details/133323762?spm=1001.2014.3001.5502)
 
-For more insightful blog posts, I invite you to visit [my homepage on CSDN](https://blog.csdn.net/weixin_64123373?type=blog).
+To explore more insightful blog posts, I encourage you to visit my [blogs](https://mikingg.github.io/blog/) for content created after October 24, 2023, or check out my [homepage on CSDN](https://blog.csdn.net/weixin_64123373?type=blog) for blogs written prior to October 23, 2023.
 
 # Project
 
