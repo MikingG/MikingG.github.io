@@ -62,3 +62,38 @@ As the team leader of this project, I am responsible for coordinating the develo
 # Contact Me
 
 Email: gongj39@mail2.sysu.edu.cn
+
+# What's more...
+
+## Work Experience
+
+- Captain of the Sun Yat-sen University Software Engineering College Badminton Team, 2022-2024 academic year
+- Life Committee Member of Class 2, Software Engineering College, Sun Yat-sen University
+- Basketball Coach for the Computer Science Department (Zhuhai) at Sun Yat-sen University, 2021-2022 academic year
+- Volleyball Coach for the Computer Science Department (Zhuhai) at Sun Yat-sen University, 2021-2022 academic year
+- Captain of the Badminton Team for the Computer Science Department (Zhuhai) at Sun Yat-sen University, 2021-2022 academic year
+
+## Awards/Honors
+
+- 1st place in the Sun Yat-sen University Zhuhai Campus Badminton Department Tournament
+- 5th place in the Sun Yat-sen University Zhuhai Campus Badminton Freshman Cup Mixed Doubles Event
+- 5th place in the Sun Yat-sen University Zhuhai Campus Badminton Freshman Cup Mixed Doubles Event
+- 1st place in the Men's Group at the Sun Yat-sen University Kang Le Cup Volleyball Competition
+- 4th place in the Sun Yat-sen University "Freshman Cup" Volleyball Competition
+- 5th place in the Sun Yat-sen University Badminton Freshman Competition
+- Excellence Award in the Sun Yat-sen University "Strive for a New Journey, Contribute to a New Era" Choral Competition
+- Outstanding Member of the Youth League at the college level
+- Star of Military Training
+- Excellent Deputy Squad Leader in Military Training
+- Advanced Squad in Military Training
+
+## Other Experiences
+
+- Exchange Student at The Chinese University of Hong Kong, 2022-2023
+- Host of the Student Representative Assembly at the Software Engineering College, Sun Yat-sen University
+- Voice Actor for the "Three Down to the Countryside" Activity at the Software Engineering College, Sun Yat-sen University
+- Planner of the Badminton Fun Sports Meet at the Software Engineering College, Sun Yat-sen University
+
+## English Proficiency
+
+- 559 points, CET6
