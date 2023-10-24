@@ -54,8 +54,9 @@ Description: CLUB_HUB is a platform dedicated to managing student clubs and faci
 
 As the team leader of this project, I am responsible for coordinating the development of the platform and ensuring that it effectively meets the needs of SYSU.
 
-# Recent New
+# Recent News
 
+- **2023/10/24.** I have published over 100 original blog posts on CSDN, with a total of more than 10,000 views.
 - **2023/10.** I have joined the research group led by Assistant Professor Yanlin Wang.
 
 # Contact Me
