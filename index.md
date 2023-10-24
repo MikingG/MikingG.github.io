@@ -99,3 +99,6 @@ Email: gongj39@mail2.sysu.edu.cn
 ## English Proficiency
 
 - 559 points, CET6
+
+- -----
+(The update date is October 24, 2023.)
