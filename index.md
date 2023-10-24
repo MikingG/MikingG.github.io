@@ -63,6 +63,8 @@ As the team leader of this project, I am responsible for coordinating the develo
 
 Email: gongj39@mail2.sysu.edu.cn
 
+--------
+
 # What's more...
 
 ## Work Experience
