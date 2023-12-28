@@ -99,9 +99,9 @@ Email: gongj39@mail2.sysu.edu.cn
 - Voice Actor for the "Three Down to the Countryside" Activity at the Software Engineering College, Sun Yat-sen University
 - Planner of the Badminton Fun Sports Meet at the Software Engineering College, Sun Yat-sen University
 
-## English Proficiency
-
-- 559 points, CET6
+## Language Proficiency
+- English: 559 points, CET6
+- Mandarin: Level 2 Grade A, PSC
 
 - -----
-(The update date is December 7, 2023.)
+(The update date is December 28, 2023.)
