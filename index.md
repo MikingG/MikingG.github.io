@@ -39,6 +39,10 @@ To explore more insightful blog posts, I encourage you to visit my [blogs](https
 
 Description: During my undergraduate studies, I had the opportunity to work with Associate Professor Xiaoyu He as part of the National Undergraduate Training Program for Innovation and Entrepreneurship. Our research primarily focused on developing gradient-free federated learning methods using evolutionary computation. This innovative approach aimed to enhance the efficiency and effectiveness of federated learning, making it a viable option for various practical applications.
 
+## Code Search Optimization Techniques Based on Large Model Query Optimization and Code Optimization
+
+Description: This is an undergraduate student innovation training project under the guidance of Assistant Professor Wang Yanlin. This project will conduct in-depth analysis, rewriting, and expansion of user queries to generate higher quality code search queries. The research focus of this project includes strategies for optimizing query statements, such as using Embedding techniques to handle ambiguity and uncertainty in query statements, using large models to process semantically similar but different negations, handling semantically opposite negations, processing semantically synonymous affirmations, correcting erroneous query statements, and supplementing vague query statements. In addition, the project also focuses on code optimization, such as identifying and correcting errors in code, improving the clarity and readability of custom API names, and generating and optimizing function descriptions (Docstrings).
+
 ## SSE_MARKET
 
 Description: SSE_MARKET is a communication platform specifically designed for teachers and students at the School of Software Engineering (SSE) at Sun Yat-sen University (SYSU). This platform aims to facilitate seamless interaction and the exchange of information within the academic community.
@@ -55,6 +59,10 @@ Description: CLUB_HUB is a platform dedicated to managing student clubs and faci
 - This project is not finished yet.
 
 As the team leader of this project, I am responsible for coordinating the development of the platform and ensuring that it effectively meets the needs of SYSU.
+
+## TitleGPT
+
+Description: This tool combines ChatGPT with a custom-built feedforward neural network to create highly engaging headlines. It blends ChatGPT's advanced language capabilities with targeted neural network algorithms, providing a succinct and effective solution for generating attention-grabbing titles in the digital content space.
 
 # Recent News
 - **2023/10/30.** The total number of visits has exceeded 300, the number of visits for a single page has exceeded 150, and the total number of visitors has exceeded 100.
