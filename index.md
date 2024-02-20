@@ -3,7 +3,7 @@ layout: default
 ---
 # About me
 
-I enrolled in the Software Engineering School at Sun Yat-sen University in September 2021 as an undergraduate student. Currently, I am conducting research under the guidance of Assistant Professor Yanling Wang. Prior to this, I worked with Associate Professor Xiaoyu He, participating in the National Undergraduate Training Program for Innovation and Entrepreneurship. During that time, our research focused on gradient-free federated learning methods based on evolutionary computation.
+I enrolled in the Software Engineering School at Sun Yat-sen University in September 2021 as an undergraduate student. Currently, I am conducting research under the guidance of Assistant Professor Yanlin Wang. Prior to this, I worked with Associate Professor Xiaoyu He, participating in the National Undergraduate Training Program for Innovation and Entrepreneurship. During that time, our research focused on gradient-free federated learning methods based on evolutionary computation.
 
 In addition to my academic endeavors, I have a passion for sharing knowledge and have authored almost 100 original blogs, which are published on CSDN, a prominent Chinese software development community.
 
