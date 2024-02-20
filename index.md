@@ -9,7 +9,7 @@ In addition to my academic endeavors, I have a passion for sharing knowledge and
 
 My research interests are broad, encompassing large language models, software engineering, and deep learning, with a particular focus on intelligent software engineering.
 
-**GPA**: 3.9/4.0, 4.0/5.0
+**GPA**: 3.9/4.0, 4.1/5.0
 
 # Awards
 
