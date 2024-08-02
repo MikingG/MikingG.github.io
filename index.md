@@ -28,6 +28,8 @@ My research interests include software engineering, large language models, machi
 
 # Research Experience
 
+
+
 ## Gradient-Free Federated Learning Methods Based on Evolutionary Computation
 
 Description: During my undergraduate studies, I had the opportunity to work with Associate Professor Xiaoyu He as part of the National Undergraduate Training Program for Innovation and Entrepreneurship. Our research primarily focused on developing gradient-free federated learning methods using evolutionary computation. This innovative approach aimed to enhance the efficiency and effectiveness of federated learning, making it a viable option for various practical applications.
