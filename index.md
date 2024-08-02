@@ -21,17 +21,11 @@ My research interests are broad, encompassing large language models, software en
 
 # Publications
 
-While I have not published any papers to date, I am currently working under the tutelage of the brilliant, kind, and beautiful Assistant Professor Yanlin Wang. With her guidance, I am confident in my potential and excited for the promising future that lies ahead.
+Jing Gong, Yanghui Wu, Linxi Liang, Zibin Zheng, Yanlin Wang. CoSQA+: Enhancing Code Search Dataset with Matching Code. Preprint available at arXiv:2406.11589 [cs.SE].
 
-## Highlighted Works from My Blog
+Jing Gong. A Study of Tennis Momentum Based on k-means++ and LightGBM Models. Accepted. 2024 International Conference on Computer Engineering and Information Processing, March 2024.
 
-1. [Managing Test Files with create_files and delete_files Bash Scripts](https://blog.csdn.net/weixin_64123373/article/details/133934518?spm=1001.2014.3001.5502)
-2. [How to successfully Compile lab1_example_solution1?](https://blog.csdn.net/weixin_64123373/article/details/133379846?spm=1001.2014.3001.5502)
-3. [How to connect VSCode to Ubuntu](https://blog.csdn.net/weixin_64123373/article/details/133928744?spm=1001.2014.3001.5502)
-4. [Bitcoin Consensus Mechanism](https://blog.csdn.net/weixin_64123373/article/details/133278783?spm=1001.2014.3001.5502)
-5. [mandatory and optional problems](https://blog.csdn.net/weixin_64123373/article/details/133323762?spm=1001.2014.3001.5502)
 
-To explore more insightful blog posts, I encourage you to visit my [blogs](https://mikingg.github.io/blog/) for content created after October 24, 2023, or check out my [homepage on CSDN](https://blog.csdn.net/weixin_64123373?type=blog) for blogs written prior to October 23, 2023.
 
 # Project
 
@@ -64,12 +58,22 @@ As the team leader of this project, I am responsible for coordinating the develo
 
 Description: This tool combines ChatGPT with a custom-built feedforward neural network to create highly engaging headlines. It blends ChatGPT's advanced language capabilities with targeted neural network algorithms, providing a succinct and effective solution for generating attention-grabbing titles in the digital content space.
 
-# Recent News
-- **2023/10/30.** The total number of visits has exceeded 300, the number of visits for a single page has exceeded 150, and the total number of visitors has exceeded 100.
-- **2023/10/26.** The total number of visits has exceeded 200, the number of visits for a single page has exceeded 100, and the total number of visitors has exceeded 50.
-- **2023/10/24.** I have published over 100 original blog posts on CSDN, with a total of more than 10,000 views.
-- **2023/10.** I have joined the research group led by Assistant Professor Yanlin Wang.
+## Selected Core Courses in SE and PL
 
+- Principles of Compiler: 97
+- Program Analysis: 95
+- Discrete Mathematics: 96
+- Algorithm Design and Analysis: 96
+- Blockchain Principle and Technology: 94
+- Java and Object-Oriented Design: 94
+- Data Structures and Algorithms: 91
+- Software Analysis and Design: 91
+
+## Language Proficiency
+- English: 6.5 (IELTS)
+- Mandarin: Native Speaker
+- Cantonese: Native Speaker
+  
 # Contact Me
 
 Email: gongj39@mail2.sysu.edu.cn
@@ -77,6 +81,22 @@ Email: gongj39@mail2.sysu.edu.cn
 --------
 
 # What's more...
+
+## Recent News
+- **2023/10/30.** The total number of visits has exceeded 300, the number of visits for a single page has exceeded 150, and the total number of visitors has exceeded 100.
+- **2023/10/26.** The total number of visits has exceeded 200, the number of visits for a single page has exceeded 100, and the total number of visitors has exceeded 50.
+- **2023/10/24.** I have published over 100 original blog posts on CSDN, with a total of more than 10,000 views.
+- **2023/10.** I have joined the research group led by Assistant Professor Yanlin Wang.
+
+## Highlighted Works from My Blog
+
+1. [Managing Test Files with create_files and delete_files Bash Scripts](https://blog.csdn.net/weixin_64123373/article/details/133934518?spm=1001.2014.3001.5502)
+2. [How to successfully Compile lab1_example_solution1?](https://blog.csdn.net/weixin_64123373/article/details/133379846?spm=1001.2014.3001.5502)
+3. [How to connect VSCode to Ubuntu](https://blog.csdn.net/weixin_64123373/article/details/133928744?spm=1001.2014.3001.5502)
+4. [Bitcoin Consensus Mechanism](https://blog.csdn.net/weixin_64123373/article/details/133278783?spm=1001.2014.3001.5502)
+5. [mandatory and optional problems](https://blog.csdn.net/weixin_64123373/article/details/133323762?spm=1001.2014.3001.5502)
+
+To explore more insightful blog posts, I encourage you to visit my [blogs](https://mikingg.github.io/blog/) for content created after October 24, 2023, or check out my [homepage on CSDN](https://blog.csdn.net/weixin_64123373?type=blog) for blogs written prior to October 23, 2023.
 
 ## Work Experience
 
@@ -107,9 +127,7 @@ Email: gongj39@mail2.sysu.edu.cn
 - Voice Actor for the "Three Down to the Countryside" Activity at the Software Engineering College, Sun Yat-sen University
 - Planner of the Badminton Fun Sports Meet at the Software Engineering College, Sun Yat-sen University
 
-## Language Proficiency
-- English: 559 points, CET6
-- Mandarin: Level 2 Grade A, PSC
+
 
 - -----
 (The update date is December 28, 2023.)
