@@ -79,12 +79,6 @@ Email: gongj39@mail2.sysu.edu.cn
 
 # What's more...
 
-## Recent News
-- **2023/10/30.** The total number of visits has exceeded 300, the number of visits for a single page has exceeded 150, and the total number of visitors has exceeded 100.
-- **2023/10/26.** The total number of visits has exceeded 200, the number of visits for a single page has exceeded 100, and the total number of visitors has exceeded 50.
-- **2023/10/24.** I have published over 100 original blog posts on CSDN, with a total of more than 10,000 views.
-- **2023/10.** I have joined the research group led by Assistant Professor Yanlin Wang.
-
 ## Highlighted Works from My Blog
 
 1. [Managing Test Files with create_files and delete_files Bash Scripts](https://blog.csdn.net/weixin_64123373/article/details/133934518?spm=1001.2014.3001.5502)
@@ -116,13 +110,6 @@ To explore more insightful blog posts, I encourage you to visit my [blogs](https
 - Star of Military Training
 - Excellent Deputy Squad Leader in Military Training
 - Advanced Squad in Military Training
-
-## Other Experiences
-
-- Exchange Student at The Chinese University of Hong Kong, 2022-2023
-- Host of the Student Representative Assembly at the Software Engineering College, Sun Yat-sen University
-- Voice Actor for the "Three Down to the Countryside" Activity at the Software Engineering College, Sun Yat-sen University
-- Planner of the Badminton Fun Sports Meet at the Software Engineering College, Sun Yat-sen University
 
 
 
