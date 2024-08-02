@@ -3,7 +3,7 @@ layout: default
 ---
 # About me
 
-I am currently a research intern at the University of Notre Dame, supervised by Prof. Xiangliang Zhang. I am majoring in Software Engineering at Sun Yat-sen University, expecting to graduate in June 2025 under the guidance of Prof. Yanlin Wang. From January to May 2023, I was an exchange student at the Chinese University of Hong Kong.
+I am currently a research intern at the University of Notre Dame, supervised by Prof. Xiangliang Zhang. As an undergraduate, I am majoring in Software Engineering at Sun Yat-sen University, expecting to graduate in June 2025 under the guidance of Prof. Yanlin Wang. From January to May 2023, I was an exchange student at the Chinese University of Hong Kong.
 
 My research interests include software engineering, large language models, machine learning, and programming languages, particularly in automated software engineering. 
 
