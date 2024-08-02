@@ -16,7 +16,8 @@ My research interests are broad, encompassing large language models, software en
 1. Kingdomcares Scholarship (Top 6)
 2. Sun Yat-sen University Outstanding Student Scholarship (2022-2023 academic year), First Class (Top 5%)
 3. Sun Yat-sen University Outstanding Student Scholarship (2021-2022 academic year), Third Class (Top 30%)
-4. Sun Yat-sen University Programming Design Novice Competition, Second Prize.
+4. Mathematical Contest in Modeling (MCM), Meritorious Winner (2024)
+5. Sun Yat-sen University Programming Design Novice Competition, Second Prize.
 
 
 # Publications
@@ -129,5 +130,3 @@ To explore more insightful blog posts, I encourage you to visit my [blogs](https
 
 
 
-- -----
-(The update date is December 28, 2023.)
