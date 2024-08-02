@@ -3,11 +3,9 @@ layout: default
 ---
 # About me
 
-I enrolled in the Software Engineering School at Sun Yat-sen University in September 2021 as an undergraduate student. Currently, I am conducting research under the guidance of Assistant Professor Yanlin Wang. Prior to this, I worked with Associate Professor Xiaoyu He, participating in the National Undergraduate Training Program for Innovation and Entrepreneurship. During that time, our research focused on gradient-free federated learning methods based on evolutionary computation.
+I am currently a research intern at the University of Notre Dame, supervised by Prof. Xiangliang Zhang. I am majoring in Software Engineering at Sun Yat-sen University, expecting to graduate in June 2025 under the guidance of Prof. Yanlin Wang. From January to May 2023, I was an exchange student at the Chinese University of Hong Kong.
 
-In addition to my academic endeavors, I have a passion for sharing knowledge and have authored almost 100 original blogs, which are published on CSDN, a prominent Chinese software development community.
-
-My research interests are broad, encompassing large language models, software engineering, and deep learning, with a particular focus on intelligent software engineering.
+My research interests include software engineering, large language models, machine learning, and programming languages, particularly in automated software engineering. 
 
 **GPA**: 3.9/4.0, 4.1/5.0
 
@@ -22,9 +20,9 @@ My research interests are broad, encompassing large language models, software en
 
 # Publications
 
-Jing Gong, Yanghui Wu, Linxi Liang, Zibin Zheng, Yanlin Wang. CoSQA+: Enhancing Code Search Dataset with Matching Code. Preprint available at arXiv:2406.11589 [cs.SE].
+**Jing Gong**, Yanghui Wu, Linxi Liang, Zibin Zheng, Yanlin Wang. CoSQA+: Enhancing Code Search Dataset with Matching Code. Preprint available at arXiv:2406.11589 [cs.SE].
 
-Jing Gong. A Study of Tennis Momentum Based on k-means++ and LightGBM Models. Accepted. 2024 International Conference on Computer Engineering and Information Processing, March 2024.
+**Jing Gong**. A Study of Tennis Momentum Based on k-means++ and LightGBM Models. Accepted. 2024 International Conference on Computer Engineering and Information Processing, March 2024.
 
 
 
