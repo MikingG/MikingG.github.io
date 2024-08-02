@@ -26,7 +26,7 @@ My research interests include software engineering, large language models, machi
 
 
 
-# Project
+# Research Experience
 
 ## Gradient-Free Federated Learning Methods Based on Evolutionary Computation
 
@@ -35,6 +35,8 @@ Description: During my undergraduate studies, I had the opportunity to work with
 ## Code Search Optimization Techniques Based on Large Model Query Optimization and Code Optimization
 
 Description: This is an undergraduate student innovation training project under the guidance of Assistant Professor Wang Yanlin. This project will conduct in-depth analysis, rewriting, and expansion of user queries to generate higher quality code search queries. The research focus of this project includes strategies for optimizing query statements, such as using Embedding techniques to handle ambiguity and uncertainty in query statements, using large models to process semantically similar but different negations, handling semantically opposite negations, processing semantically synonymous affirmations, correcting erroneous query statements, and supplementing vague query statements. In addition, the project also focuses on code optimization, such as identifying and correcting errors in code, improving the clarity and readability of custom API names, and generating and optimizing function descriptions (Docstrings).
+
+# Coursework Project
 
 ## SSE_MARKET
 
@@ -47,11 +49,7 @@ As the team leader of this project, I have overseen the development and implemen
 
 ## CLUB_HUB
 
-Description: CLUB_HUB is a platform dedicated to managing student clubs and facilitating club recruitment at Sun Yat-sen University (SYSU). The platform serves as a comprehensive resource for students interested in joining clubs and for club leaders seeking new members.
-
-- This project is not finished yet.
-
-As the team leader of this project, I am responsible for coordinating the development of the platform and ensuring that it effectively meets the needs of SYSU.
+Description: CLUB_HUB is a platform dedicated to managing student clubs and facilitating club recruitment at Sun Yat-sen University (SYSU). The platform serves as a comprehensive resource for students interested in joining clubs and for club leaders seeking new members. As the team leader of this project, I am responsible for coordinating the development of the platform and ensuring that it effectively meets the needs of SYSU.
 
 ## TitleGPT
 
