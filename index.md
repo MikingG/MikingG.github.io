@@ -20,9 +20,9 @@ My research interests include software engineering, large language models, machi
 
 # Publications
 
-**Jing Gong**, Yanghui Wu, Linxi Liang, Zibin Zheng, Yanlin Wang. CoSQA+: Enhancing Code Search Dataset with Matching Code. Preprint available at arXiv:2406.11589 [cs.SE].
+- **Jing Gong**, Yanghui Wu, Linxi Liang, Zibin Zheng, Yanlin Wang. [CoSQA+: Enhancing Code Search Dataset with Matching Code. Preprint available at arXiv:2406.11589 [cs.SE]](https://arxiv.org/abs/2406.11589)
 
-**Jing Gong**. A Study of Tennis Momentum Based on k-means++ and LightGBM Models. Accepted. 2024 International Conference on Computer Engineering and Information Processing, March 2024.
+- **Jing Gong**. A Study of Tennis Momentum Based on k-means++ and LightGBM Models. Accepted. 2024 International Conference on Computer Engineering and Information Processing, March 2024.
 
 
 
