@@ -11,7 +11,7 @@ My research interests include software engineering, large language models, machi
 
 # Awards
 
-1. Kingdomcares Scholarship (Top 6)
+1. Kingdomcares Scholarship (2024, Top 6)
 2. Sun Yat-sen University Outstanding Student Scholarship (2022-2023 academic year), First Class (Top 5%)
 3. Sun Yat-sen University Outstanding Student Scholarship (2021-2022 academic year), Third Class (Top 30%)
 4. Mathematical Contest in Modeling (MCM), Meritorious Winner (2024)
