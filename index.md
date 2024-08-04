@@ -5,7 +5,7 @@ layout: default
 
 I am currently a research intern at the University of Notre Dame, supervised by Prof. Xiangliang Zhang. As an undergraduate, I am majoring in Software Engineering at Sun Yat-sen University, expecting to graduate in June 2025 under the guidance of Prof. Yanlin Wang. From January to May 2023, I was an exchange student at the Chinese University of Hong Kong.
 
-My research interests include software engineering, large language models, machine learning, and programming languages, particularly in automated software engineering. 
+<span style="color:red">My research interests include software engineering, human-computer interaction, large language models, machine learning, and programming languages, particularly in automated software engineering. I am actively seeking a PhD position. If my research interests align with your program, please feel free to reach out to me at gongj39@mail2.sysu.edu.cn. I look forward to connecting with you!</span>
 
 **GPA**: 3.9/4.0, 4.1/5.0
 
@@ -28,7 +28,9 @@ My research interests include software engineering, large language models, machi
 
 # Research Experience
 
+## LLMs for Bayesian Optimization (ongoing)
 
+Description: My work focused on the integration and automated tuning of diverse tools, analyzing and validating modifications through various parameter adjustments and sampling methods to optimize performance across different datasets. I am currently developing and implementing self-evolving modifications in tool algorithms to enhance their adaptability and efficiency in parameter optimization.
 
 ## Gradient-Free Federated Learning Methods Based on Evolutionary Computation
 
@@ -56,6 +58,10 @@ Description: CLUB_HUB is a platform dedicated to managing student clubs and faci
 ## TitleGPT
 
 Description: This tool combines ChatGPT with a custom-built feedforward neural network to create highly engaging headlines. It blends ChatGPT's advanced language capabilities with targeted neural network algorithms, providing a succinct and effective solution for generating attention-grabbing titles in the digital content space.
+
+## Network Hotspot Detection and Prediction System
+
+Description: This project includes data crawling, cleaning, organization, basic analysis, and event graph construction, with hotspot prediction capabilities to aid in decision-making for public opinion regulation. Built using Python Django and Vue, the system integrates large language models, machine learning, and graph databases to aggregate and refine dispersed online data into structured, actionable insights. 
 
 ## Selected Core Courses in SE and PL
 
