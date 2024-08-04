@@ -11,11 +11,11 @@ I am currently a research intern at the University of Notre Dame, supervised by 
 
 # Awards
 
-1. Kingdomcares Scholarship (2024, Top 6)
-2. Sun Yat-sen University Outstanding Student Scholarship (2022-2023 academic year), First Class (Top 5%)
-3. Sun Yat-sen University Outstanding Student Scholarship (2021-2022 academic year), Third Class (Top 30%)
-4. Mathematical Contest in Modeling (MCM), Meritorious Winner (2024)
-5. Sun Yat-sen University Programming Design Novice Competition, Second Prize.
+1. Mathematical Contest in Modeling (MCM), Meritorious Winner (Top6%, 2024)
+2. Kingdomcares Scholarship (Top 6, 2024)
+3. Sun Yat-sen University Outstanding Student Scholarship (2022-2023 academic year), First Class (Top 5%)
+4. Sun Yat-sen University Outstanding Student Scholarship (2021-2022 academic year), Third Class (Top 30%)
+6. Sun Yat-sen University Programming Design Novice Competition, Second Prize.
 
 
 # Publications
