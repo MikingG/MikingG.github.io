@@ -1,0 +1,23 @@
+---
+layout: null
+permalink: /cv/
+title: CV
+nav: true
+nav_order: 5
+redirect_to: /assets/pdf/CV-Jing-Gong.pdf
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }}</title>
+    <meta http-equiv="refresh" content="0; url={{ page.redirect_to | relative_url }}" />
+    <link rel="canonical" href="{{ page.redirect_to | relative_url }}" />
+  </head>
+  <body>
+    <p>Redirecting to <a href="{{ page.redirect_to | relative_url }}">CV (PDF)</a>&hellip;</p>
+    <script>
+      window.location.replace("{{ page.redirect_to | relative_url }}");
+    </script>
+  </body>
+</html>

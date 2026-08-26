@@ -1,189 +1,242 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Jing Gong
+  label: PhD Student, School of Computing and Information System, Faculty of Engineering and IT, University of Melbourne
+  email: gongjing13424@gmail.com
+  phone: "86-18022192013"
+  website: https://mikingg.github.io/
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+  summary: >
+    PhD candidate in Engineering and IT at the University of Melbourne, researching AI for Software Engineering
+    (AI4SE), with a particular emphasis on generating specifications to verify agentic AI systems.
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Level 2, Melbourne Connect, 700 Swanston St
+    city: Carlton
+    region: VIC
+    postalCode: "3053"
+    countryCode: AU
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: The University of Melbourne
+        location: Melbourne, VIC, Australia
+        url: https://www.unimelb.edu.au/
+        area: Engineering and IT (Full Scholarship)
+        studyType: Ph.D.
+        start_date: 2025-11
+        end_date: 2029-03
         highlights:
-          - Description 1.
-          - Description 2.
+          - "#13 in QS 2025, #27 in U.S. News 2025"
+          - "Supervisors: Prof. Bach Le, Prof. Cezary Kaliszyk"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Sun Yat-sen University
+        location: Guangzhou, China
+        url: https://www.sysu.edu.cn/
+        area: Software Engineering
+        studyType: B.E.
+        start_date: 2021-09
+        end_date: 2025-06
+        courses:
+          - Principles of Compiler (97)
+          - Discrete Mathematics (96)
+          - Program Analysis (95)
+          - Java and Object-Oriented Design (94)
+          - Data Structures and Algorithms (91)
+          - Software Analysis and Design (91)
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Top 10 in China, #106 in U.S. News 2025"
+          - "Supervisors: Prof. Yanlin Wang, Prof. Zibin Zheng (IEEE Fellow)"
+          - "GPA: 3.9/4.0 (Average Score: 91/100)"
+          - "International academic experience: International Asian Studies Program, Chinese University of Hong Kong"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Purdue University
+        position: "Remote Intern — Repository Level Code Generation"
+        location: West Lafayette, IN, USA
+        start_date: 2024-10
+        end_date: 2025-01
+        summary: Supervised by Prof. Lin Tan
         highlights:
-          - Relativity
-          - Description 2.
+          - Formulated innovative strategies to enhance code generation techniques and designed preliminary toy experiments to validate their feasibility and effectiveness.
+          - Developed an agent-based Retrieval-Augmented Generation (RAG) code generation framework to intelligently select retrieval depth and generate code for unknown APIs as supplementary context.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of Notre Dame
+        position: "Project Leader — REU: LLM-Orchestrated Bayesian Optimization for AutoML"
+        location: Notre Dame, IN, USA
+        start_date: 2024-04
+        end_date: 2025-02
+        summary: Supervised by Prof. Xiangliang Zhang
         highlights:
-          - Description 1.
-          - Description 2.
+          - Led a comprehensive study on Bayesian optimization parameter selection, demonstrating how large language models (LLMs) can dynamically select appropriate components based on optimization iteration history and expert knowledge.
+          - Utilized greedy algorithms and LLM analysis to automatically construct a high-quality dataset for Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO).
+          - Fine-tuned the open-source large language model Vicuna, achieving state-of-the-art (SOTA) performance that surpasses existing Bayesian optimization tools on the HPOBench benchmark.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Sun Yat-sen University
+        position: "Co-first Author — RustEvo²: An Evolving Benchmark for API Evolution in LLM-based Rust Code Generation"
+        location: Guangzhou, China
+        start_date: 2024-09
+        end_date: 2025-03
+        summary: Supervised by Prof. Mingwei Liu
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Introduced a two-phase framework, EvoEval, which synthesizes 588 API changes to construct the RustEvo² dataset, designed to evaluate LLMs' adaptability to evolving Rust APIs.
+          - Revealed significant performance variations among SOTA LLMs, with an average success rate of 65.8% on stabilized APIs but only 38.0% on behavioral changes.
+          - Demonstrated that knowledge cutoff dates strongly influence model performance, with models scoring 56.1% on pre-cutoff APIs compared to 32.5% on post-cutoff tasks.
+          - Evaluated the effectiveness of RAG, showing it improves model performance by an average of 13.5% for APIs released after the model's training cutoff.
+
+      - company: Sun Yat-sen University
+        position: "Project Leader — SYSU Innovation Project: Code Search Optimization Techniques"
+        location: Guangzhou, China
+        start_date: 2024-02
+        end_date: 2025-03
+        summary: Supervised by Prof. Yanlin Wang
+        highlights:
+          - Completed a prestudy on the optimization of datasets based on large models and researched the cause of model misselection in code search, as well as existing errors in the dataset through error analysis.
+          - "Conducted a survey of 102 experienced Python programmers, finding that developers typically reference 2.64 code examples per query and perform 8.31 code searches per day, motivating the need for a multi-choice code search benchmark."
+          - Developed the first multi-agent annotator with 92.0% accuracy for code search dataset construction.
+          - Constructed CoSQA+, the first benchmark designed for evaluating multi-choice code search.
+
+      - company: Sun Yat-sen University
+        position: "Key Member — SYSU Innovation Project: Gradient-free Federated Learning"
+        location: Guangzhou, China
+        start_date: 2022-12
+        end_date: 2023-12
+        summary: Supervised by Prof. Xiaoyu He
+        highlights:
+          - Developed a scalable federated learning framework that randomly selects clients, places the model server-side, trains clients client-side, and uploads the training results.
+          - Benchmarked optimization methods such as gradient descent and minibatch-SGD on datasets like MNIST and RCV1 to evaluate their efficiency in logistic regression contexts.
+
+      - company: Tianxin Software Technology Co., Ltd.
+        position: Software Developer Intern
+        location: China
+        start_date: 2023-01
+        end_date: 2023-02
+
+      - company: Sun Yat-sen University
+        position: "Teaching Assistant — Software Engineering Training (Intermediate)"
+        location: Guangzhou, China
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Baosteel Outstanding Student Scholarship
+        awarder: Sun Yat-sen University
+        date: 2024
+        summary: Top 1, 2023-2024
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: 1st Class Scholarship for Outstanding Student
+        awarder: Sun Yat-sen University
+        date: 2024
+        summary: Top 5%, 2023-2024
+
+      - title: Kingdomcares Scholarship
+        awarder: Sun Yat-sen University
+        date: 2023
+        summary: Top 5, 2022-2023
+
+      - title: 1st Class Scholarship for Outstanding Student
+        awarder: Sun Yat-sen University
+        date: 2023
+        summary: Top 5%, 2022-2023
+
+      - title: 3rd Class Scholarship for Outstanding Student
+        awarder: Sun Yat-sen University
+        date: 2022
+        summary: Top 30%, 2021-2022
+
+      - title: "Mathematical Contest in Modeling (MCM), Meritorious Winner"
+        awarder: COMAP
+        date: 2024-02
+
+      - title: "Sun Yat-sen University Programming Design Novice Competition, Second Prize"
+        awarder: Sun Yat-sen University
+        date: 2023-04
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: "CoSQA+: Pioneering the Multi-Choice Code Search Benchmark with Test-Driven Agents"
+        publisher: "IEEE Transactions on Software Engineering, vol. 52, no. 1, pp. 206-220 (JCR Q1, CCF-A)"
+        releaseDate: 2026-01
+        url: https://doi.org/10.1109/TSE.2025.3631886
+        summary: "Authors: Jing Gong, Yanghui Wu* (co-first), Linxi Liang* (co-first), Yanlin Wang, Jiachi Chen, Mingwei Liu, Zibin Zheng"
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: "RustEvo²: An Evolving Benchmark for API Evolution in LLM-based Rust Code Generation"
+        publisher: "arXiv preprint arXiv:2503.16922 [cs.SE]"
+        releaseDate: 2025-03
+        url: https://arxiv.org/abs/2503.16922
+        summary: "Authors: Linxi Liang, Jing Gong* (co-first), Mingwei Liu, Chong Wang, Guangsheng Ou, Yanlin Wang, Xin Peng, Zibin Zheng"
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: A Study of Tennis Momentum Based on K-means++ and LightGBM Models
+        publisher: "Proceedings of the 2024 2nd International Conference on Mechatronics, IoT, and Industrial Informatics (ICMIII 2024), pp. 298-303, IEEE"
+        releaseDate: 2024-06
+        url: https://ieeexplore.ieee.org/abstract/document/10660045
+        summary: "Sole author. ISBN: 9798350386639"
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: An Explainable Deep Learning Method with Squeeze and Excitation Block for Nowcasting Tropical Cyclone Remote Precipitation
+        publisher: "Journal of Geophysical Research: Machine Learning and Computation, Vol. 2, Issue 3, e2025JH000675"
+        releaseDate: 2025
+        url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JH000675
+        summary: "Authors: Shiqi Xiao, Aoqi Zhang, Jing Gong, Yilun Chen, Shumin Chen, Weibiao Li"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: A Historical Trajectory Assisted Optimization Method for Zeroth-Order Federated Learning
+        publisher: "arXiv preprint arXiv:2409.15955 [cs.SE]"
+        releaseDate: 2024-09
+        url: https://arxiv.org/abs/2409.15955
+        summary: "Authors: Chenlin Wu, Xiaoyu He, Zike Li, Jing Gong, Zibin Zheng"
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: 2024 Mathematical Contest in Modeling (MCM)
+        date: 2024-02
+        summary: "Project Leader. Awarded Meritorious Winner."
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Utilized LightGBM to predict game outcomes with over 80% accuracy.
+          - Quantified momentum's impact using exponentially weighted moving leverage and K-Means++ clustering.
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: SSE_MARKET for the School of Software Engineering
+        url: https://ssemarket.cn/
+        start_date: 2022-03
+        end_date: 2024-03
+        summary: Project Leader
+        highlights:
+          - Developed the back-end framework using Go and the front-end framework using Vue to implement various features.
+          - Liaised with faculty and students to collect requirements, prioritize feedback, and improve the platform's features.
+          - "Utilized by over two-thirds of the college's students and faculty, becoming the largest communication center in the school, with over 6,000 daily views and more than 500 daily active users within a community of fewer than 900 individuals."
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "TitleGPT: an engaging-headline generation tool"
+        start_date: 2023-09
+        end_date: 2024-01
+        summary: Core Member
+        highlights:
+          - Combined ChatGPT with a custom-built feedforward neural network to create highly engaging headlines.
+          - Increased the attractiveness of titles generated by TitleGPT by 206.06% compared to the original titles, and by 158.97% compared to titles directly generated by ChatGPT.
+
+    Skills:
+      - name: Programming Languages
+        level: Proficient
+        icon: fa-solid fa-code
+        keywords:
+          - Python
+          - C++
+          - Java
+
+      - name: Programming Languages
+        level: Intermediate
+        icon: fa-solid fa-code
+        keywords:
+          - Go
+          - JavaScript
+
+      - name: Programming Languages
+        level: Basic
+        icon: fa-solid fa-code
+        keywords:
+          - MATLAB
+
+    Languages:
+      - name: Mandarin
+        summary: Native speaker
+
+      - name: Cantonese
+        summary: Native speaker
+
+      - name: English
+        summary: Proficient
+
+    Software Copyright:
+      - bullet: "TC Remote Precipitation Deep Learning Intelligent Prediction Software"
